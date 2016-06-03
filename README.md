@@ -19,16 +19,21 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####A
 ATLAS - A Toroidal LHC ApparatuS
+
 ALICE - A Large Ion Collider Experiment
 #####B
 BU - Baylor University
 #####C
 CERN - European Center for Nuclear Research
+
 CMS - Compact Muon Solenoid
+
 CDF - CMS Data Format
+
 CDF - Collider-Detector at Fermilab
 #####D
 DLL - Delayed Lock Loop
+
 DUNE - Deep Underground Neutrino Experiment
 #####E
 #####F
@@ -40,9 +45,13 @@ FNAL - Fermi National Accelerator Lab
 #####K
 #####L
 LArTPC - Liquid Argon Time Projection Chamber
+
 LBNF - Long-Baseline Neutrino Experiment
+
 LHC - Large Hadron Collider
+
 LPC - LHC Physics Center
+
 #####M
 #####N
 NOvA - NuMI Off-axis v_e Appearance
@@ -53,6 +62,7 @@ ODU - Optical Display Unit
 Charge Integrator and Encoder
 #####R
 RBX - Readout Box
+
 RV - Release Validation
 #####S
 SiPM - Silicon Photomultiplier
