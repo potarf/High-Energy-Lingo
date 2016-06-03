@@ -19,59 +19,100 @@ Contributing to this document is the best way to make it more effective. If you 
 ##Acronyms
 
 #####A
-* ATLAS - A Toroidal LHC ApparatuS
+* ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
+* ATLAS - A Toroidal LHC ApparatuS
 
 #####B
 * BU - Baylor University
 
 #####C
-* CERN - European Center for Nuclear Research
-* CMS - Compact Muon Solenoid
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
+* CDMS - Cryogenic Dark Matter Search
+* CERN - European Center for Nuclear Research
+* CF - Cosmic Frontier
+* CMS - Compact Muon Solenoid
+* COUPP - Chicagoland Observatory for Underground Particle Physics
+* CRAB - CMS Remote Analysis Builder
 
 #####D
+* DAQ - Data Acquisition System
 * DLL - Delayed Lock Loop
+* DOE - Department of Energy
+* DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment
 
 #####E
+* ECAL - Electromagnetic Calorimeter
+* EF - Energy Frontier
+
 #####F
 * FNAL - Fermi National Accelerator Lab
+* FPGA - Field-Programmable Gate Array
 
 #####G
 #####H
+* HCal - Hadron Calorimeter
+* HE - HCal End-cap
+* HEP - High Energy Physics
+* HF - HCal Forward
 #####I
+IF - Intensity Frontier
+
 #####J
+* JSON - JavaScript Object Notation
+
 #####K
 #####L
 * LArTPC - Liquid Argon Time Projection Chamber
 * LBNF - Long-Baseline Neutrino Experiment
 * LHC - Large Hadron Collider
+* LHCb - Large Hadron Collider beauty
 * LPC - LHC Physics Center
 
 #####M
 #####N
-* NOvA - NuMI Off-axis v_e Appearance
+* NOvA - NuMI Off-axis v<sub>e</sub> Appearance
 
 #####O
 * ODU - Optical Display Unit
+* OSG - Open Science Grid
 
 #####P
+* PDF - Parton Distribution Function
+
 #####Q
-* Charge Integrator and Encoder
+* QCD - Quantum ChromoDynamics
+* QED - Quantum ElectroDynamics
+* QIE - Charge Integrator and Encoder
 
 #####R
 * RBX - Readout Box
+* ROC - Remote Operations Center
+* RSO - Radiation Safety Officer
 * RV - Release Validation
 
 #####S
+* SCRAM - Source Configuration, Release, And Management
 * SiPM - Silicon Photomultiplier
+* Sloan Digital Sky Survey
+* SUSY - SUper SYmmetry
 
 #####T
+* TB - Test Beam
+* TCS - Trigger Control System
+* TDC - Time to Digital Converter
+* TLA - Three-Letter Acronym
+* TP - Trigger Primitive
+* TriDAS - Trigger and Data Acquisition System
+
 #####U
+* μHTR - HCAL μTCA Trigger and Readout module
+
 #####V
 #####W
+* WIMP - Weakly Interacting Massive Particle
 #####X
 #####Y
 #####Z
