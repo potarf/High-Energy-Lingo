@@ -62,7 +62,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * eV - Electronvolt
 
 #####F
-* fb - femtobarn
+* fb - Femtobarn
 * fC - Femtocoulomb
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
