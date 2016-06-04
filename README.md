@@ -70,6 +70,7 @@ Contributing to this document is the best way to make it more effective. If you 
 #####G
 * GeV - Giga-electronvolt
 * GR - General Relativity
+* GUI - Graphic User Interface
 * GW - Gravitational-Wave
 
 #####H
@@ -92,6 +93,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####K
 #####L
+* L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
 * LBNF - Long-Baseline Neutrino Experiment
@@ -108,8 +110,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
-* Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MSSM - Minimally Sumpersymmetric Standard Model
+* Mu2e - Muon-to-electron-conversion experiment at Fermilab
+* MUX - MUltipleXer
 
 #####N
 * NDF - Number of Degrees of Freedom
@@ -128,6 +131,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * OSG - Open Science Grid
 
 #####P
+* P5 - Point 5 at the LHC (fifth interaction point)
 * PADE - PreAmp and Digitizer Electronics
 * pb - Picobarn
 * PDE - Partial Differential Equation
