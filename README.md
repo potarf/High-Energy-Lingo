@@ -132,7 +132,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * pb - Picobarn
 * PDE - Partial Differential Equation
 * PDF - Parton Distribution Function
-* PE - Prototype Electron
+* PE - Prototype Electron =D
 * PMT - PhotoMultiplier Tube
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
