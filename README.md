@@ -173,7 +173,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TriDAS - Trigger and Data Acquisition System
 
 #####U
-* μHTR - Micro HCal Trigger and Readout module
+* μHTR - μTCA HCal Trigger and Readout module
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
