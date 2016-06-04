@@ -24,19 +24,21 @@ Contributing to this document is the best way to make it more effective. If you 
 * ATLAS - A Toroidal LHC ApparatuS
 
 #####B
+* BSM - Beyond the Standard Model
 * BU - Baylor University
 
 #####C
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
 * CDMS - Cryogenic Dark Matter Search
-* CERN - European Center for Nuclear Research
+* CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CMS - Compact Muon Solenoid
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
 
 #####D
+* D0 - DZero Experiment at Fermilab
 * DAQ - Data Acquisition System
 * DLL - Delayed Lock Loop
 * DOE - Department of Energy
@@ -53,12 +55,16 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####G
 #####H
+* HB - HCal Barrel
 * HCal - Hadron Calorimeter
 * HE - HCal End-cap
 * HEP - High Energy Physics
 * HF - HCal Forward
+* HL-LHC - High Luminosity (HiLumi) LHC
+* HO - HCal Outer
+
 #####I
-IF - Intensity Frontier
+* IF - Intensity Frontier
 
 #####J
 * JSON - JavaScript Object Notation
@@ -67,11 +73,17 @@ IF - Intensity Frontier
 #####L
 * LArTPC - Liquid Argon Time Projection Chamber
 * LBNF - Long-Baseline Neutrino Experiment
-* LHC - Large Hadron Collider
+* LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
 * LPC - LHC Physics Center
 
 #####M
+* MC - Monte Carlo
+* MET - Missing Transverse Energy
+* M<sub>inv</sub> - Invariant Mass
+* Mu2e - Muon-to-electron-conversion experiment at Fermilab
+* MSSM - Minimally Sumpersymmetric Standard Model
+
 #####N
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
 
@@ -81,10 +93,14 @@ IF - Intensity Frontier
 
 #####P
 * PDF - Parton Distribution Function
+* PE - Prototype Electron
+* PS - Proton Synchrotron
+* PT - Transverse Momentum
 
 #####Q
 * QCD - Quantum ChromoDynamics
 * QED - Quantum ElectroDynamics
+* QFT - Quantum Field Theory
 * QIE - Charge Integrator and Encoder
 
 #####R
@@ -95,8 +111,11 @@ IF - Intensity Frontier
 
 #####S
 * SCRAM - Source Configuration, Release, And Management
+* SDSS - Sloan Digital Sky Survey
 * SiPM - Silicon Photomultiplier
-* Sloan Digital Sky Survey
+* SLAC - Standford Linear Accelerator Center
+* SM - Standard Model
+* SPS - Super Poton Synchrotron
 * SUSY - SUper SYmmetry
 
 #####T
@@ -104,11 +123,13 @@ IF - Intensity Frontier
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
 * TLA - Three-Letter Acronym
+* TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
 * TriDAS - Trigger and Data Acquisition System
 
 #####U
-* μHTR - HCAL μTCA Trigger and Readout module
+* μHTR - Micro HCal Trigger and Readout module
+* μTCA - Micro Telecommunications Computing Architecture
 
 #####V
 #####W
