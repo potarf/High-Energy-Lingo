@@ -117,6 +117,7 @@ Contributing to this document is the best way to make it more effective. If you 
 #####N
 * NDF - Number of Degrees of Freedom
 * ngCCM - Next Generation Clock and Control Module
+* ngCCMeFEC - ngCCM emulator Front End Controls
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
@@ -152,6 +153,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RBX - Readout Box
 * RecHits - Reconstructed Collisions
 * ROC - Remote Operations Center
+* RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
 * RV - Release Validation
 
