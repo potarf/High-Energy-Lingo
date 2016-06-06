@@ -1,6 +1,6 @@
-#CMS Acronyms
+#High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used by CMS collaborators
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCal.
 
 
 ##How to use
