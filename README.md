@@ -69,6 +69,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####G
 * GeV - Giga-electronvolt
+* GPIO - General-purpose input/output
 * GR - General Relativity
 * GUI - Graphic User Interface
 * GW - Gravitational-Wave
@@ -159,6 +160,8 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####S
 * SCRAM - Source Configuration, Release, And Management
+* SCL - Serial CLock
+* SDA - Serial DAta
 * SDSS - Sloan Digital Sky Survey
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
