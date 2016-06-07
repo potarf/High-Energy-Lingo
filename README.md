@@ -19,6 +19,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##Acronyms
 
 #####A
+* ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
 * ATLAS - A Toroidal LHC ApparatuS
@@ -118,6 +119,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MUX - MUltipleXer
 
 #####N
+* NACK - Not Acknowledge
 * NDF - Number of Degrees of Freedom
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
