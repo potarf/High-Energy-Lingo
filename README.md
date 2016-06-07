@@ -19,6 +19,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##Acronyms
 
 #####A
+* ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
 * ATLAS - A Toroidal LHC ApparatuS
@@ -86,6 +87,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * HPD - Hybrid PhotoDiode
 
 #####I
+* I<sup>2</sup>c - Inter-Integrated Circuit
+* IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
 
@@ -116,6 +119,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MUX - MUltipleXer
 
 #####N
+* NACK - Not Acknowledge
 * NDF - Number of Degrees of Freedom
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
@@ -140,6 +144,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PDF - Parton Distribution Function
 * PE - Prototype Electron =D
 * PMT - PhotoMultiplier Tube
+* PR - Pull Request
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 
@@ -153,6 +158,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * R2E - Radiation To Electronics
 * RBX - Readout Box
 * RecHits - Reconstructed Collisions
+* Repo - Repository
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
@@ -166,6 +172,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
 * SM - Standard Model
+* SMBus - System Management Bus
 * SPS - Super Poton Synchrotron
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
