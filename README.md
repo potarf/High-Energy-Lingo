@@ -25,6 +25,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ATLAS - A Toroidal LHC ApparatuS
 
 #####B
+* Brdg - Bridge FPGA
 * BSM - Beyond the Standard Model
 * BU - Baylor University
 * BX - Bunch Crossing
@@ -80,6 +81,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HCal - Hadron Calorimeter
 * HE - HCal End-cap
 * HEP - High Energy Physics
+* HERM - HCal End-cap Readout Module
 * HF - HCal Forward
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
@@ -114,7 +116,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
-* MSSM - Minimally Sumpersymmetric Standard Model
+* MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
 
@@ -125,6 +127,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ngCCMeFEC - ngCCM emulator Front End Controls
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
+* NMSSM - Next-to-Minimal Sumpersymmetric Standard Model
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
 * NP - New Physics
 * ns - nanosecond
