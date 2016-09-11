@@ -182,7 +182,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SM - Standard Model
 * SMBus - System Management Bus
 * SPS - Super Poton Synchrotron
-* SQL - Structure Query Language
+* SQL - Structured Query Language
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
