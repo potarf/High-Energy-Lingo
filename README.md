@@ -50,6 +50,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * D0 - DZero Experiment at Fermilab
 * DAC - Digital to Analog Converter
 * DAQ - Data Acquisition System
+* DB - Database
 * DE - Dark Energy
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
@@ -153,6 +154,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 * PU - Pileup
+* py - python
 
 #####Q
 * QCD - Quantum ChromoDynamics
@@ -180,6 +182,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SM - Standard Model
 * SMBus - System Management Bus
 * SPS - Super Poton Synchrotron
+* SQL - Structure Query Language
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
