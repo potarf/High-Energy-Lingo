@@ -1,6 +1,6 @@
 #High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCal.
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL.
 
 
 ##How to use
@@ -78,16 +78,16 @@ Contributing to this document is the best way to make it more effective. If you 
 * GW - Gravitational-Wave
 
 #####H
-* HB - HCal Barrel
-* HCal - Hadron Calorimeter
-* HE - HCal End-cap
+* HB - HCAL Barrel
+* HCAL - Hadron Calorimeter
+* HE - HCAL End-cap
 * HEP - High Energy Physics
-* HERM - HCal End-cap Readout Module
-* HF - HCal Forward
+* HERM - HCAL End-cap Readout Module
+* HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
-* HO - HCal Outer
+* HO - HCAL Outer
 * HPD - Hybrid PhotoDiode
 
 #####I
@@ -195,7 +195,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TriDAS - Trigger and Data Acquisition System
 
 #####U
-* μHTR - μTCA HCal Trigger and Readout module
+* μHTR - μTCA HCAL Trigger and Readout module
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
