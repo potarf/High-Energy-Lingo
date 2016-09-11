@@ -44,6 +44,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
 * CSV - Combined Secondary Vertex
+* CV - Curriculum vitae
 
 #####D
 * D0 - DZero Experiment at Fermilab
@@ -83,6 +84,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HEP - High Energy Physics
 * HERM - HCal End-cap Readout Module
 * HF - HCal Forward
+* HGCAL - High Granularity Calorimeter
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
 * HO - HCal Outer
@@ -150,6 +152,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PR - Pull Request
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
+* PU - Pileup
 
 #####Q
 * QCD - Quantum ChromoDynamics
@@ -169,8 +172,8 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####S
 * SCRAM - Source Configuration, Release, And Management
-* SCL - Serial CLock
-* SDA - Serial DAta
+* SCL - Serial Clock
+* SDA - Serial Data
 * SDSS - Sloan Digital Sky Survey
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
@@ -179,7 +182,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SPS - Super Poton Synchrotron
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
-* SUSY - SUper SYmmetry
+* SUSY - Super Symmetry
 
 #####T
 * TB - Test Beam
