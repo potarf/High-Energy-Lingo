@@ -44,6 +44,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
 * CSV - Combined Secondary Vertex
+* CU - Calibration Unit
 * CV - Curriculum vitae
 
 #####D
@@ -54,6 +55,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DE - Dark Energy
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
+* DNS - Domain Name System
 * DOE - Department of Energy
 * DPS - Detector Performance Summary
 * DQM - Data Quality Monitoring
@@ -167,6 +169,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RBX - Readout Box
 * RecHits - Reconstructed Collisions
 * Repo - Repository
+* RM - Readout Module
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
