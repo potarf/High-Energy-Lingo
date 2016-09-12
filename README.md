@@ -66,6 +66,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * EF - Energy Frontier
 * EFT - Effective Field Theory
 * eV - Electronvolt
+* EYETS - Extended Year-End Technical Stop
 
 #####F
 * fb - Femtobarn
@@ -215,5 +216,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * WIMP - Weakly Interacting Massive Particle
 
 #####X
+
 #####Y
+* YETS - Year-End Technical Stop
+
 #####Z
