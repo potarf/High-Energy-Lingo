@@ -100,10 +100,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * JSON - JavaScript Object Notation
 
 #####K
+
 #####L
 * L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
+* LASER - Light Amplification by Stimulated Emission of Radiation
 * LBNF - Long-Baseline Neutrino Experiment
 * LED - Light Emitting Diode
 * LHC - Large Hadron (Hardon) Collider =D
