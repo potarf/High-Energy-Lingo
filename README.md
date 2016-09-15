@@ -53,6 +53,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DAQ - Data Acquisition System
 * DB - Database
 * DE - Dark Energy
+* DFB - Distribution Feed-Box
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
 * DNS - Domain Name System
@@ -65,12 +66,14 @@ Contributing to this document is the best way to make it more effective. If you 
 * ECAL - Electromagnetic Calorimeter
 * EF - Energy Frontier
 * EFT - Effective Field Theory
+* EMTF - Endcap Muon Trigger Finder
 * eV - Electronvolt
 * EYETS - Extended Year-End Technical Stop
 
 #####F
 * fb - Femtobarn
 * fC - Femtocoulomb
+* FC7 - ngFEC = Next Generation Front End Control
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
 
@@ -85,10 +88,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HE - HCAL End-cap
+* HEL - High Energy Lingo
 * HEP - High Energy Physics
 * HERM - HCAL End-cap Readout Module
 * HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
+* HIP - Heavily Ionizing Particles
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
 * HO - HCAL Outer
@@ -117,6 +122,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LHCP Conference - LHC Physics Conference
 * LPC - LHC Physics Center
+* LS1 - Long Shutdown 1
+* LS2 - Long Shutdown 2
 * LVDS - Low Voltage Differential Signaling
 
 #####M
@@ -133,6 +140,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * NDF - Number of Degrees of Freedom
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
+* ngFEC - FC7 = Next Generation Front End Control
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
 * NMSSM - Next-to-Minimal Sumpersymmetric Standard Model
@@ -156,6 +164,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PE - Prototype Electron =D
 * PMT - PhotoMultiplier Tube
 * PR - Pull Request
+* PRBS - Pseudo Random Bit Stream
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 * PU - Pileup
