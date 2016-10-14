@@ -43,6 +43,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
+* CRF - Castor Radiation Facility
 * CSV - Combined Secondary Vertex
 * CU - Calibration Unit
 * CV - Curriculum vitae
@@ -87,8 +88,10 @@ Contributing to this document is the best way to make it more effective. If you 
 #####H
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
-* HE - HCAL End-cap
+* HE - HCAL Endcap
 * HEL - High Energy Lingo
+* HEM - HCAL Endcap Minus
+* HEP - HCAL Endcap Plus
 * HEP - High Energy Physics
 * HERM - HCAL End-cap Readout Module
 * HF - HCAL Forward
@@ -214,6 +217,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####U
 * μHTR - μTCA HCAL Trigger and Readout module
+* uMNio - μTCA Minnesota IO Module
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
