@@ -110,6 +110,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####J
 * JSON - JavaScript Object Notation
+* JTAG - Joint Test Action Group
 
 #####K
 
@@ -210,6 +211,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
 * TeV - Tera-electronvolt
+* TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
