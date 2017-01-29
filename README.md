@@ -1,6 +1,6 @@
 #High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL.
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL. Note that you may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym you which to find.
 
 
 ##How to use
@@ -51,6 +51,7 @@ Contributing to this document is the best way to make it more effective. If you 
 #####D
 * D0 - DZero Experiment at Fermilab
 * DAC - Digital to Analog Converter
+* DAD - Jordan David Potarf (aka JERRY)
 * DAQ - Data Acquisition System
 * DB - Database
 * DE - Dark Energy
@@ -93,7 +94,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HEM - HCAL Endcap Minus
 * HEP - HCAL Endcap Plus
 * HEP - High Energy Physics
-* HERM - HCAL End-cap Readout Module
+* HERM - HCAL End-cap Readout Module (aka Andrew Brent Baas)
 * HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
 * HIP - Heavily Ionizing Particles
@@ -131,6 +132,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LVDS - Low Voltage Differential Signaling
 
 #####M
+* MARV - Shaun Patrick Hogan
 * MC - Monte Carlo
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
@@ -145,9 +147,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
 * ngFEC - FC7 = Next Generation Front End Control
+* NJP - Nathaniel Joseph Pastika (aka Joe)
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
 * NMSSM - Next-to-Minimal Sumpersymmetric Standard Model
+* NORM - Caleb James Smith
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
 * NP - New Physics
 * ns - nanosecond
