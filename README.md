@@ -1,6 +1,6 @@
 #High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL. Note that you may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym you which to find.
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL. Note that you may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym you wish to find.
 
 
 ##How to use
