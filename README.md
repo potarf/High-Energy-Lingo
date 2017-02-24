@@ -60,9 +60,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * DM - Dark Matter
 * DNS - Domain Name System
 * DOE - Department of Energy
+* DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DQM - Data Quality Monitoring
-* DUNE - Deep Underground Neutrino Experiment
+* DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
+* DUNE - Novel and series by Franck Herbert (alternate)
 
 #####E
 * ECAL - Electromagnetic Calorimeter
@@ -171,6 +173,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * PDF - Parton Distribution Function
 * PE - Prototype Electron =D
 * PMT - PhotoMultiplier Tube
+* PAG - Physics Analysis Group
+* POG - Physics Object Group
 * PR - Pull Request
 * PRBS - Pseudo Random Bit Stream
 * PS - Proton Synchrotron
@@ -203,6 +207,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
 * SM - Standard Model
+* SMP - Standard Model Physics
 * SMBus - System Management Bus
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
