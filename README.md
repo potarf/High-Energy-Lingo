@@ -1,6 +1,6 @@
 #High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCal.
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL. Note that you may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym you wish to find.
 
 
 ##How to use
@@ -43,29 +43,41 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
+* CRF - Castor Radiation Facility
 * CSV - Combined Secondary Vertex
+* CU - Calibration Unit
+* CV - Curriculum vitae
 
 #####D
 * D0 - DZero Experiment at Fermilab
 * DAC - Digital to Analog Converter
+* DAD - Jordan David Potarf (aka JERRY)
 * DAQ - Data Acquisition System
+* DB - Database
 * DE - Dark Energy
+* DFB - Distribution Feed-Box
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
+* DNS - Domain Name System
 * DOE - Department of Energy
+* DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DQM - Data Quality Monitoring
-* DUNE - Deep Underground Neutrino Experiment
+* DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
+* DUNE - Novel and series by Franck Herbert (alternate)
 
 #####E
 * ECAL - Electromagnetic Calorimeter
 * EF - Energy Frontier
 * EFT - Effective Field Theory
+* EMTF - Endcap Muon Trigger Finder
 * eV - Electronvolt
+* EYETS - Extended Year-End Technical Stop
 
 #####F
 * fb - Femtobarn
 * fC - Femtocoulomb
+* FC7 - ngFEC = Next Generation Front End Control
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
 
@@ -77,15 +89,20 @@ Contributing to this document is the best way to make it more effective. If you 
 * GW - Gravitational-Wave
 
 #####H
-* HB - HCal Barrel
-* HCal - Hadron Calorimeter
-* HE - HCal End-cap
+* HB - HCAL Barrel
+* HCAL - Hadron Calorimeter
+* HE - HCAL Endcap
+* HEL - High Energy Lingo
+* HEM - HCAL Endcap Minus
+* HEP - HCAL Endcap Plus
 * HEP - High Energy Physics
-* HERM - HCal End-cap Readout Module
-* HF - HCal Forward
+* HERM - HCAL End-cap Readout Module (aka Andrew Brent Baas)
+* HF - HCAL Forward
+* HGCAL - High Granularity Calorimeter
+* HIP - Heavily Ionizing Particles
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
-* HO - HCal Outer
+* HO - HCAL Outer
 * HPD - Hybrid PhotoDiode
 
 #####I
@@ -96,12 +113,15 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####J
 * JSON - JavaScript Object Notation
+* JTAG - Joint Test Action Group
 
 #####K
+
 #####L
 * L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
+* LASER - Light Amplification by Stimulated Emission of Radiation
 * LBNF - Long-Baseline Neutrino Experiment
 * LED - Light Emitting Diode
 * LHC - Large Hadron (Hardon) Collider =D
@@ -109,9 +129,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LHCP Conference - LHC Physics Conference
 * LPC - LHC Physics Center
+* LS1 - Long Shutdown 1
+* LS2 - Long Shutdown 2
 * LVDS - Low Voltage Differential Signaling
 
 #####M
+* MARV - Shaun Patrick Hogan
 * MC - Monte Carlo
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
@@ -125,9 +148,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * NDF - Number of Degrees of Freedom
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
+* ngFEC - FC7 = Next Generation Front End Control
+* NJP - Nathaniel Joseph Pastika (aka Joe)
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
 * NMSSM - Next-to-Minimal Sumpersymmetric Standard Model
+* NORM - Caleb James Smith
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
 * NP - New Physics
 * ns - nanosecond
@@ -147,9 +173,14 @@ Contributing to this document is the best way to make it more effective. If you 
 * PDF - Parton Distribution Function
 * PE - Prototype Electron =D
 * PMT - PhotoMultiplier Tube
+* PAG - Physics Analysis Group
+* POG - Physics Object Group
 * PR - Pull Request
+* PRBS - Pseudo Random Bit Stream
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
+* PU - Pileup
+* py - python
 
 #####Q
 * QCD - Quantum ChromoDynamics
@@ -162,6 +193,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RBX - Readout Box
 * RecHits - Reconstructed Collisions
 * Repo - Repository
+* RM - Readout Module
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
@@ -169,30 +201,34 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####S
 * SCRAM - Source Configuration, Release, And Management
-* SCL - Serial CLock
-* SDA - Serial DAta
+* SCL - Serial Clock
+* SDA - Serial Data
 * SDSS - Sloan Digital Sky Survey
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
 * SM - Standard Model
+* SMP - Standard Model Physics
 * SMBus - System Management Bus
 * SPS - Super Poton Synchrotron
+* SQL - Structured Query Language
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
-* SUSY - SUper SYmmetry
+* SUSY - Super Symmetry
 
 #####T
 * TB - Test Beam
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
 * TeV - Tera-electronvolt
+* TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
 * TriDAS - Trigger and Data Acquisition System
 
 #####U
-* μHTR - μTCA HCal Trigger and Readout module
+* μHTR - μTCA HCAL Trigger and Readout module
+* uMNio - μTCA Minnesota IO Module
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
@@ -204,5 +240,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * WIMP - Weakly Interacting Massive Particle
 
 #####X
+
 #####Y
+* YETS - Year-End Technical Stop
+
 #####Z
