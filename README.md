@@ -1,11 +1,9 @@
 #High Energy Lingo
 
-This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics. It's a work in progress, and likely geared more toward CMS collaborators, especially those working on the HCAL. Note that you may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym you wish to find.
-
+This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP). It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
 
 ##How to use
-The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the you want. If it's not there, please add it when you figure out what it means! For instructions, see the next section.
-
+The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find. You may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
 ###How to contribute
 Contributing to this document is the best way to make it more effective. If you want to add something, follow either of the following procedures:
 ####Procedure 1 (preferred):
@@ -22,15 +20,22 @@ Contributing to this document is the best way to make it more effective. If you 
 * ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
+* ANN - Artificial Neural Network
+* APD - Avalanche PIN diode
+* ARC - Analysis Review Committee
 * ATLAS - A Toroidal LHC ApparatuS
 
 #####B
 * Brdg - Bridge FPGA
+* BPTX - Beam Pickup Timing for the eXperiment
+* BRM - Beam Radiation & Monitoring for CMS
 * BSM - Beyond the Standard Model
 * BU - Baylor University
 * BX - Bunch Crossing
 
 #####C
+* CC7 - CentosOS7
+* cDAQ - Central DAQ
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
 * CDMS - Cryogenic Dark Matter Search
@@ -38,13 +43,19 @@ Contributing to this document is the best way to make it more effective. If you 
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
 * ChPT - Chiral Perturbation Theory
+* CLI - Command Line Interface
 * CM - Calibration Module
+* CMS - Constant Meeting System
 * CMS - Compact Muon Solenoid
 * CMSSW - CMS SoftWare
+* CNN - Convolutional Neural Network
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CRAB - CMS Remote Analysis Builder
+* CRAFT - Cosmic Run At Four Tesla
+* CRUZET - Cosmic RUn at ZEro Tesla
 * CRF - Castor Radiation Facility
 * CSV - Combined Secondary Vertex
+* CSV - Comma Separated Values
 * CU - Calibration Unit
 * CV - Curriculum vitae
 
@@ -59,6 +70,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
 * DNS - Domain Name System
+* DOC - Data Operations Center
 * DOE - Department of Energy
 * DPS - Detector Performance Summary
 * DQM - Data Quality Monitoring
@@ -69,6 +81,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * EF - Energy Frontier
 * EFT - Effective Field Theory
 * EMTF - Endcap Muon Trigger Finder
+* EPR - Experimental Physics Responsibility
 * eV - Electronvolt
 * EYETS - Extended Year-End Technical Stop
 
@@ -76,8 +89,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * fb - Femtobarn
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
+* FM - Function Manager
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
+* FRU - Field Replaceable Unit
+* FSM - Finite State Machine
 
 #####G
 * GeV - Giga-electronvolt
@@ -89,6 +105,7 @@ Contributing to this document is the best way to make it more effective. If you 
 #####H
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
+* HCOS - HCAL Online Software
 * HE - HCAL Endcap
 * HEL - High Energy Lingo
 * HEM - HCAL Endcap Minus
@@ -120,6 +137,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
 * LASER - Light Amplification by Stimulated Emission of Radiation
+* LBA - Lost Bus Arbitration
 * LBNF - Long-Baseline Neutrino Experiment
 * LED - Light Emitting Diode
 * LHC - Large Hadron (Hardon) Collider =D
@@ -134,9 +152,11 @@ Contributing to this document is the best way to make it more effective. If you 
 #####M
 * MARV - Shaun Patrick Hogan
 * MC - Monte Carlo
+* MCH - MicroTCA Carrier Hub
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
+* MLP - Multi Layer Perceptron
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
@@ -144,6 +164,7 @@ Contributing to this document is the best way to make it more effective. If you 
 #####N
 * NACK - Not Acknowledge
 * NDF - Number of Degrees of Freedom
+* NFS - Network File System
 * ngCCM - Next Generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
 * ngFEC - FC7 = Next Generation Front End Control
@@ -167,9 +188,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * P5 - Point 5 at the LHC (fifth interaction point)
 * PADE - PreAmp and Digitizer Electronics
 * pb - Picobarn
+* PCC - Pixel Clustering Counter
 * PDE - Partial Differential Equation
 * PDF - Parton Distribution Function
-* PE - Prototype Electron =D
+* PE - Prototype Electron (developed by Dr. D) =D
+* PI - Partition Interface
+* PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
 * PMT - PhotoMultiplier Tube
 * PR - Pull Request
 * PRBS - Pseudo Random Bit Stream
@@ -182,13 +206,19 @@ Contributing to this document is the best way to make it more effective. If you 
 * QCD - Quantum ChromoDynamics
 * QED - Quantum ElectroDynamics
 * QFT - Quantum Field Theory
+* QGL - Quark Gluon
 * QIE - Charge Integrator and Encoder
 
 #####R
 * R2E - Radiation To Electronics
 * RBX - Readout Box
+* RC - Run Control
+* RCMS - Run Control and Monitor System
 * RecHits - Reconstructed Collisions
+* RELU - Rectified Linear Unit
 * Repo - Repository
+* RF - Radio Frequency
+* RF - Random Forest
 * RM - Readout Module
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
@@ -212,6 +242,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####T
 * TB - Test Beam
+* TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
 * TeV - Tera-electronvolt
@@ -220,6 +251,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
 * TriDAS - Trigger and Data Acquisition System
+* TTC - Timing, Trigger and Control
+* TTCrx - Timing, Trigger and Control Receiver ASIC
+* TTS - Trigger Throttling System
 
 #####U
 * μHTR - μTCA HCAL Trigger and Readout module
@@ -235,6 +269,10 @@ Contributing to this document is the best way to make it more effective. If you 
 * WIMP - Weakly Interacting Massive Particle
 
 #####X
+* XaaD - Service running on a host which uses Xaas
+* XaaS - XDAQ as a Service
+* XGBoost - eXtreme Gradient Boost
+* XMAS -XDAQ Monitoring and Alarming System
 
 #####Y
 * YETS - Year-End Technical Stop
