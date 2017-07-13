@@ -65,14 +65,17 @@ Contributing to this document is the best way to make it more effective. If you 
 * DAD - Jordan David Potarf (aka JERRY)
 * DAQ - Data Acquisition System
 * DB - Database
+* DCS - Detector Control System
 * DE - Dark Energy
 * DFB - Distribution Feed-Box
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
 * DNS - Domain Name System
+* DOC - Detector On Call
 * DOC - Data Operations Center
 * DOE - Department of Energy
 * DPS - Detector Performance Summary
+* DSS - Detector Safety System
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment
 
@@ -165,7 +168,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * NACK - Not Acknowledge
 * NDF - Number of Degrees of Freedom
 * NFS - Network File System
-* ngCCM - Next Generation Clock and Control Module
+* ng - next generation
+* ngCCM - next generation Clock and Control Module
 * ngCCMeFEC - ngCCM emulator Front End Controls
 * ngFEC - FC7 = Next Generation Front End Control
 * NJP - Nathaniel Joseph Pastika (aka Joe)
@@ -267,6 +271,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 #####W
 * WIMP - Weakly Interacting Massive Particle
+* WYSIWYG - What You See Is What You Get
 
 #####X
 * XaaD - Service running on a host which uses Xaas
