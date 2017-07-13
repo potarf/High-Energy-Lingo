@@ -1,22 +1,22 @@
-#High Energy Lingo
+# High Energy Lingo
 
 This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP). It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
 
-##How to use
+## How to use
 The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find. You may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
-###How to contribute
+### How to contribute
 Contributing to this document is the best way to make it more effective. If you want to add something, follow either of the following procedures:
-####Procedure 1 (preferred):
+#### Procedure 1 (preferred):
 * Fork the repository
 * Edit the file to add your data and descriptions
 * Submit a pull request
 
-####Procedure 2:
+#### Procedure 2:
 * Email me your data and descriptions and I will add them as I am available.
 
-##Acronyms
+## Acronyms
 
-#####A
+##### A
 * ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
@@ -25,7 +25,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ARC - Analysis Review Committee
 * ATLAS - A Toroidal LHC ApparatuS
 
-#####B
+##### B
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
 * BRM - Beam Radiation & Monitoring for CMS
@@ -33,7 +33,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BU - Baylor University
 * BX - Bunch Crossing
 
-#####C
+##### C
 * CC7 - CentosOS7
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
@@ -59,7 +59,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CU - Calibration Unit
 * CV - Curriculum vitae
 
-#####D
+##### D
 * D0 - DZero Experiment at Fermilab
 * DAC - Digital to Analog Converter
 * DAD - Jordan David Potarf (aka JERRY)
@@ -81,7 +81,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
 * DUNE - Novel and series by Franck Herbert (alternate)
 
-#####E
+##### E
 * ECAL - Electromagnetic Calorimeter
 * EF - Energy Frontier
 * EFT - Effective Field Theory
@@ -90,7 +90,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * eV - Electronvolt
 * EYETS - Extended Year-End Technical Stop
 
-#####F
+##### F
 * fb - Femtobarn
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
@@ -100,14 +100,14 @@ Contributing to this document is the best way to make it more effective. If you 
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
 
-#####G
+##### G
 * GeV - Giga-electronvolt
 * GPIO - General-purpose input/output
 * GR - General Relativity
 * GUI - Graphic User Interface
 * GW - Gravitational-Wave
 
-#####H
+##### H
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
@@ -125,19 +125,19 @@ Contributing to this document is the best way to make it more effective. If you 
 * HO - HCAL Outer
 * HPD - Hybrid PhotoDiode
 
-#####I
+##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
 * IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
 
-#####J
+##### J
 * JSON - JavaScript Object Notation
 * JTAG - Joint Test Action Group
 
-#####K
+##### K
 
-#####L
+##### L
 * L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
@@ -154,7 +154,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LS2 - Long Shutdown 2
 * LVDS - Low Voltage Differential Signaling
 
-#####M
+##### M
 * MARV - Shaun Patrick Hogan
 * MC - Monte Carlo
 * MCH - MicroTCA Carrier Hub
@@ -166,7 +166,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
 
-#####N
+##### N
 * NACK - Not Acknowledge
 * NDF - Number of Degrees of Freedom
 * NFS - Network File System
@@ -184,13 +184,13 @@ Contributing to this document is the best way to make it more effective. If you 
 * ns - nanosecond
 * NSF - National Science Foundation
 
-#####O
+##### O
 * ODE - Ordinary Differential Equation
 * ODU - Optical Decoder Unit
 * Op-amp - Operational amplifier
 * OSG - Open Science Grid
 
-#####P
+##### P
 * P5 - Point 5 at the LHC (fifth interaction point)
 * PADE - PreAmp and Digitizer Electronics
 * pb - Picobarn
@@ -210,14 +210,14 @@ Contributing to this document is the best way to make it more effective. If you 
 * PU - Pileup
 * py - python
 
-#####Q
+##### Q
 * QCD - Quantum ChromoDynamics
 * QED - Quantum ElectroDynamics
 * QFT - Quantum Field Theory
 * QGL - Quark Gluon
 * QIE - Charge Integrator and Encoder
 
-#####R
+##### R
 * R2E - Radiation To Electronics
 * RBX - Readout Box
 * RC - Run Control
@@ -233,7 +233,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RSO - Radiation Safety Officer
 * RV - Release Validation
 
-#####S
+##### S
 * SCRAM - Source Configuration, Release, And Management
 * SCL - Serial Clock
 * SDA - Serial Data
@@ -249,7 +249,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
 
-#####T
+##### T
 * TB - Test Beam
 * TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
@@ -264,27 +264,27 @@ Contributing to this document is the best way to make it more effective. If you 
 * TTCrx - Timing, Trigger and Control Receiver ASIC
 * TTS - Trigger Throttling System
 
-#####U
+##### U
 * μHTR - μTCA HCAL Trigger and Readout module
 * uMNio - μTCA Minnesota IO Module
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
 
-#####V
+##### V
 * VTTx - Versatile Twin Transmitter
 
-#####W
+##### W
 * WIMP - Weakly Interacting Massive Particle
 * WYSIWYG - What You See Is What You Get
 
-#####X
+##### X
 * XaaD - Service running on a host which uses Xaas
 * XaaS - XDAQ as a Service
 * XGBoost - eXtreme Gradient Boost
 * XMAS -XDAQ Monitoring and Alarming System
 
-#####Y
+##### Y
 * YETS - Year-End Technical Stop
 
-#####Z
+##### Z
