@@ -5,3 +5,4 @@ subtle - challenging, difficult, hard to find and debug, easily overlooked
 critical path - needs to be done now, farthest behind, holding up progress for other tasks
 legacy - originally installed, old system
 next generation (ng) - newly installed (or to be installed), update to legacy, new system
+exhaustion - the feeling you get after taking shifts... or helping with TestBeam, CHARM, Sourcing, or CMS installation!
