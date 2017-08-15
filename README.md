@@ -144,6 +144,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LASER - Light Amplification by Stimulated Emission of Radiation
 * LBA - Lost Bus Arbitration
 * LBNF - Long-Baseline Neutrino Experiment
+* LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
 * LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
@@ -152,6 +153,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LPC - LHC Physics Center
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
+* LSP - Lightest Supersymmetric Particle
 * LVDS - Low Voltage Differential Signaling
 
 ##### M
