@@ -43,6 +43,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
 * ChPT - Chiral Perturbation Theory
+* CL - Combined Limit
 * CLI - Command Line Interface
 * CM - Calibration Module
 * CMS - Constant Meeting System
@@ -88,6 +89,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * EMTF - Endcap Muon Trigger Finder
 * EPR - Experimental Physics Responsibility
 * eV - Electronvolt
+* EW - ElectroWeak
+* EWSB - ElectroWeak Symmetry Breaking
 * EYETS - Extended Year-End Technical Stop
 
 ##### F
@@ -105,6 +108,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GPIO - General-purpose input/output
 * GR - General Relativity
 * GUI - Graphic User Interface
+* GUT - Grand Unified Theory
 * GW - Gravitational-Wave
 
 ##### H
@@ -202,6 +206,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PE - Prototype Electron (developed by Dr. D) =D
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
+* pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - PhotoMultiplier Tube
 * PAG - Physics Analysis Group
 * POG - Physics Object Group
@@ -240,11 +245,13 @@ Contributing to this document is the best way to make it more effective. If you 
 * SCL - Serial Clock
 * SDA - Serial Data
 * SDSS - Sloan Digital Sky Survey
+* SF - Scale Factor
 * SiPM - Silicon Photomultiplier
 * SLAC - Standford Linear Accelerator Center
 * SM - Standard Model
 * SMP - Standard Model Physics
 * SMBus - System Management Bus
+* SP - Survival Probability
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
