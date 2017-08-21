@@ -235,6 +235,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RF - Radio Frequency
 * RF - Random Forest
 * RM - Readout Module
+* ROC - Receiver Operator Characteristic
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
