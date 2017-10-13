@@ -20,6 +20,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
+* AMC - Advanced Mezzanine Card
 * ANN - Artificial Neural Network
 * APD - Avalanche PIN diode
 * ARC - Analysis Review Committee
@@ -100,6 +101,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FM - Function Manager
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
+* FPR - False Positive Rate
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
 
@@ -115,6 +117,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
+* HDF - Hierarchical Data Format
 * HE - HCAL Endcap
 * HEL - High Energy Lingo
 * HEM - HCAL Endcap Minus
@@ -193,6 +196,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### O
 * ODE - Ordinary Differential Equation
 * ODU - Optical Decoder Unit
+* OFW - OverFloW
 * Op-amp - Operational amplifier
 * OSG - Open Science Grid
 
@@ -248,6 +252,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SDSS - Sloan Digital Sky Survey
 * SF - Scale Factor
 * SiPM - Silicon Photomultiplier
+* SL - Shift Leader
 * SLAC - Standford Linear Accelerator Center
 * SM - Standard Model
 * SMP - Standard Model Physics
@@ -269,6 +274,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TLA - Three-Letter Acronym
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
+* TPR - True Positive Rate
 * TriDAS - Trigger and Data Acquisition System
 * TTC - Timing, Trigger and Control
 * TTCrx - Timing, Trigger and Control Receiver ASIC
