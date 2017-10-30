@@ -39,6 +39,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
+* CDR - Clock and Data Recovery
 * CDMS - Cryogenic Dark Matter Search
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
@@ -137,6 +138,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
+* IRR - Installation Readiness Review
 
 ##### J
 * JSON - JavaScript Object Notation
