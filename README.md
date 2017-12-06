@@ -125,7 +125,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HEM - HCAL Endcap Minus
 * HEP - HCAL Endcap Plus
 * HEP - High Energy Physics
-* HERM - HCAL End-cap Readout Module (aka Andrew Brent Baas)
+* HERM - HCAL Endcap Readout Module (aka Andrew Brent Baas)
 * HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
 * HIP - Heavily Ionizing Particles
