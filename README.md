@@ -22,6 +22,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ALICE - A Large Ion Collider Experiment
 * AMC - Advanced Mezzanine Card
 * ANN - Artificial Neural Network
+* AOD - Analysis Object Data
 * APD - Avalanche PIN diode
 * ARC - Analysis Review Committee
 * ATLAS - A Toroidal LHC ApparatuS
@@ -236,6 +237,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RC - Run Control
 * RCMS - Run Control and Monitor System
 * RecHits - Reconstructed Collisions
+* RECO - Reconstructed Data
 * RELU - Rectified Linear Unit
 * Repo - Repository
 * RF - Radio Frequency
@@ -271,6 +273,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
+* TDR - Technical Design Report
 * TeV - Tera-electronvolt
 * TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
@@ -288,6 +291,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
+* USCMS - United States Compact Muon Solenoid (Group)
+* USLUA - United States LHC Users Association
 
 ##### V
 * VTTx - Versatile Twin Transmitter
