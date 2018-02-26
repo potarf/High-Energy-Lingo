@@ -74,6 +74,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DFB - Distribution Feed-Box
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
+* DNN - Deep Neural Network
 * DNS - Domain Name System
 * DOC - Detector On Call
 * DOC - Data Operations Center
@@ -243,6 +244,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RF - Radio Frequency
 * RF - Random Forest
 * RM - Readout Module
+* RNN - Recurrent Neural Network
 * ROC - Receiver Operator Characteristic
 * ROC - Remote Operations Center
 * RPi - Raspberry Pi
