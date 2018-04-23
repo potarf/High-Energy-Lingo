@@ -54,6 +54,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COUPP - Chicagoland Observatory for Underground Particle Physics
+* CPM - Central Partition Manager
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -82,6 +83,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
+* DTC - Distributed Timing and Clock
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
 * DUNE - Novel and series by Franck Herbert (alternate)
@@ -152,6 +154,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
+* LAS - Life Access Server
 * LASER - Light Amplification by Stimulated Emission of Radiation
 * LBA - Lost Bus Arbitration
 * LBNF - Long-Baseline Neutrino Experiment
@@ -162,6 +165,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LHCP Conference - LHC Physics Conference
 * LPC - LHC Physics Center
+* LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
 * LSP - Lightest Supersymmetric Particle
@@ -219,7 +223,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PAG - Physics Analysis Group
 * POG - Physics Object Group
 * PR - Pull Request
-* PRBS - Pseudo Random Bit Stream
+* PRBS - PseudoRandom Binary Sequence
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 * PU - Pileup
@@ -247,6 +251,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * RNN - Recurrent Neural Network
 * ROC - Receiver Operator Characteristic
 * ROC - Remote Operations Center
+* ROOT - Rene/Rademakers Object Oriented Technology
+* ROOT - Retro Object Oriented Tree
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
 * RV - Release Validation
@@ -260,6 +266,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SiPM - Silicon Photomultiplier
 * SL - Shift Leader
 * SLAC - Standford Linear Accelerator Center
+* SLASH - Smart Life Access Server Hub
 * SM - Standard Model
 * SMP - Standard Model Physics
 * SMBus - System Management Bus
@@ -306,6 +313,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### X
 * XaaD - Service running on a host which uses Xaas
 * XaaS - XDAQ as a Service
+* XDAQ - Cross Data Acquisistion System
 * XGBoost - eXtreme Gradient Boost
 * XMAS -XDAQ Monitoring and Alarming System
 
