@@ -143,6 +143,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
 * IRR - Installation Readiness Review
+* ISR - Initial State Radiation
 
 ##### J
 * JSON - JavaScript Object Notation
@@ -211,6 +212,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### P
 * P5 - Point 5 at the LHC (fifth interaction point)
 * PADE - PreAmp and Digitizer Electronics
+* PAT - Physics Analysis Toolkit
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
 * PDE - Partial Differential Equation
@@ -227,6 +229,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 * PU - Pileup
+* PUPPI - PileUp Per Particle Identification
 * py - python
 
 ##### Q
