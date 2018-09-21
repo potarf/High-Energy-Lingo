@@ -280,6 +280,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
+* SWAPTSBMCWNOF - South West Airlines Presents The Sam Beins Memorial Chipotle Wednesday Now On Friday
 
 ##### T
 * TB - Test Beam
