@@ -136,7 +136,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
 * HO - HCAL Outer
-* HPD - Hybrid PhotoDiode
+* HPD - Hybrid Photo-Detector
 
 ##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
