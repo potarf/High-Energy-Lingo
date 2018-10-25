@@ -28,6 +28,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ATLAS - A Toroidal LHC ApparatuS
 
 ##### B
+* BDT - Boosted Decision Tree
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
 * BRM - Beam Radiation & Monitoring for CMS
@@ -183,6 +184,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
+* MVA - Multivariate Analysis
 
 ##### N
 * NACK - Not Acknowledge
@@ -216,6 +218,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
 * PDE - Partial Differential Equation
+* PDE - Photon Detection Efficiency
 * PDF - Parton Distribution Function
 * PE - Prototype Electron (developed by Dr. D) =D
 * PI - Partition Interface
@@ -224,6 +227,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PMT - PhotoMultiplier Tube
 * PAG - Physics Analysis Group
 * POG - Physics Object Group
+* P5 - Particle Physics Project Prioritization Panel
 * PR - Pull Request
 * PRBS - PseudoRandom Binary Sequence
 * PS - Proton Synchrotron
@@ -291,6 +295,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TeV - Tera-electronvolt
 * TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
+* TMVA - Toolkit for Multivariate Data Analysis with ROOT
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
 * TPR - True Positive Rate
