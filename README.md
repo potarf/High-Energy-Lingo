@@ -57,6 +57,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CNN - Convolutional Neural Network
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CPM - Central Partition Manager
+* CPU - Central Processing Unit
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -116,6 +117,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GeV - Giga-electronvolt
 * GPIO - General-purpose input/output
 * GR - General Relativity
+* GPU - Graphics Processing Unit
 * GUI - Graphic User Interface
 * GUT - Grand Unified Theory
 * GW - Gravitational-Wave
@@ -299,6 +301,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TMVA - Toolkit for Multivariate Data Analysis with ROOT
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
+* TPU - Tensor Processing Unit
 * TPR - True Positive Rate
 * TriDAS - Trigger and Data Acquisition System
 * TTC - Timing, Trigger and Control

@@ -6,6 +6,7 @@ legacy - originally installed, old system
 next generation (ng) - newly installed (or to be installed), update to legacy, new system
 robust - general, good error handling, works well consistently, well thought out, aplicable, flexible, deals with problems efficiently
 subtle - challenging, difficult, hard to find and debug, easily overlooked
+fermiaphilic - afraid of fermions, not likely to interact with fermions
 
 ## Data Types
 
