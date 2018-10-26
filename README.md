@@ -25,6 +25,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * AOD - Analysis Object Data
 * APD - Avalanche PIN diode
 * ARC - Analysis Review Committee
+* ASIC - Application Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
 
 ##### B
