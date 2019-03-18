@@ -220,6 +220,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PAT - Physics Analysis Toolkit
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
+* PD - Primary Dataset
 * PDE - Partial Differential Equation
 * PDE - Photon Detection Efficiency
 * PDF - Parton Distribution Function
