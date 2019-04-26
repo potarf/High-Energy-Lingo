@@ -178,6 +178,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### M
 * MARV - Shaun Patrick Hogan
+* MATHUSLA - MAssive Timing Hodoscope for Ultra-Stable neutraL pArticles
 * MC - Monte Carlo
 * MCH - MicroTCA Carrier Hub
 * MET - Missing Transverse Energy
@@ -288,7 +289,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
-* SWAPTSBMCWNOF - South West Airlines Presents The Sam Beins Memorial Chipotle Wednesday Now On Friday
+* SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
 
 ##### T
 * TB - Test Beam
