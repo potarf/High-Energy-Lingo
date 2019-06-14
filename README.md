@@ -47,6 +47,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
+* CHIPOTLE - Chicken Hot sauce Ingredients Please Order Tacos Lettuce Every day
+* CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
 * CL - Combined Limit
 * CLI - Command Line Interface
