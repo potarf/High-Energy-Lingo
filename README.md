@@ -219,7 +219,9 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### P
 * P5 - Point 5 at the LHC (fifth interaction point)
+* P5 - Particle Physics Project Prioritization Panel
 * PADE - PreAmp and Digitizer Electronics
+* PAG - Physics Analysis Group
 * PAT - Physics Analysis Toolkit
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
@@ -232,9 +234,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
 * pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - PhotoMultiplier Tube
-* PAG - Physics Analysis Group
 * POG - Physics Object Group
-* P5 - Particle Physics Project Prioritization Panel
+* PPOD - Pluggable Parallel Optical receivers
 * PR - Pull Request
 * PRBS - PseudoRandom Binary Sequence
 * PS - Proton Synchrotron
