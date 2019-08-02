@@ -191,6 +191,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
 * MVA - Multivariate Analysis
+* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN brought to you by Nvidia
 
 ##### N
 * NACK - Not Acknowledge
