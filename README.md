@@ -3,12 +3,19 @@
 This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP). It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
 
 ## How to use
-The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find. You may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
+
+The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find.
+
+You may search this README.md file from the command line with 
+```grep ABC README.md```
+where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
+
 ### How to contribute
 Contributing to this document is the best way to make it more effective. If you want to add something, follow either of the following procedures:
+
 #### Procedure 1 (preferred):
 * Fork the repository
-* Edit the file to add your data and descriptions
+* Edit the file to add your data and descriptions; please use alphabetical order
 * Submit a pull request
 
 #### Procedure 2:
