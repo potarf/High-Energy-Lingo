@@ -7,7 +7,9 @@ This is an unofficial guide to the acronyms, abbreviations, and other shorthand 
 The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find.
 
 You may search this README.md file from the command line with 
+
 ```grep ABC README.md```
+
 where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
 
 ### How to contribute
