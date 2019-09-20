@@ -123,6 +123,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FPR - False Positive Rate
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
+* FSPA - Fermilab Student & Postdoc Association
 
 ##### G
 * GeV - Giga-electronvolt
