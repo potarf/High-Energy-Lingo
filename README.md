@@ -3,12 +3,21 @@
 This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP). It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
 
 ## How to use
-The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find. You may search this README.md file from the command line with "grep ABC README.md" where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
+
+The acronyms, data and shorthand are alphabetized on this page. Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find.
+
+You may search this README.md file from the command line with 
+
+```grep ABC README.md```
+
+where ABC is the acronym or keyword you wish to find. If a relevant acronym is not listed, please add it when you figure out what it means! For instructions, see the next section. 
+
 ### How to contribute
 Contributing to this document is the best way to make it more effective. If you want to add something, follow either of the following procedures:
+
 #### Procedure 1 (preferred):
 * Fork the repository
-* Edit the file to add your data and descriptions
+* Edit the file to add your data and descriptions; please use alphabetical order
 * Submit a pull request
 
 #### Procedure 2:
@@ -20,12 +29,16 @@ Contributing to this document is the best way to make it more effective. If you 
 * ACK - Acknowledge
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
+* AMC - Advanced Mezzanine Card
 * ANN - Artificial Neural Network
+* AOD - Analysis Object Data
 * APD - Avalanche PIN diode
 * ARC - Analysis Review Committee
+* ASIC - Application Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
 
 ##### B
+* BDT - Boosted Decision Tree
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
 * BRM - Beam Radiation & Monitoring for CMS
@@ -38,11 +51,15 @@ Contributing to this document is the best way to make it more effective. If you 
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
+* CDR - Clock and Data Recovery
 * CDMS - Cryogenic Dark Matter Search
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
+* CHIPOTLE - Chicken Hot sauce Ingredients Please Order Tacos Lettuce Every day
+* CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
+* CL - Combined Limit
 * CLI - Command Line Interface
 * CM - Calibration Module
 * CMS - Constant Meeting System
@@ -50,6 +67,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COUPP - Chicagoland Observatory for Underground Particle Physics
+* CPM - Central Partition Manager
+* CPU - Central Processing Unit
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -70,6 +89,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DFB - Distribution Feed-Box
 * DLL - Delayed Lock Loop
 * DM - Dark Matter
+* DNN - Deep Neural Network
 * DNS - Domain Name System
 * DOC - Detector On Call
 * DOC - Data Operations Center
@@ -77,6 +97,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
+* DTC - Distributed Timing and Clock
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
 * DUNE - Novel and series by Franck Herbert (alternate)
@@ -88,6 +109,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * EMTF - Endcap Muon Trigger Finder
 * EPR - Experimental Physics Responsibility
 * eV - Electronvolt
+* EW - ElectroWeak
+* EWSB - ElectroWeak Symmetry Breaking
 * EYETS - Extended Year-End Technical Stop
 
 ##### F
@@ -97,6 +120,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FM - Function Manager
 * FNAL - Fermi National Accelerator Lab
 * FPGA - Field-Programmable Gate Array
+* FPR - False Positive Rate
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
 
@@ -104,34 +128,40 @@ Contributing to this document is the best way to make it more effective. If you 
 * GeV - Giga-electronvolt
 * GPIO - General-purpose input/output
 * GR - General Relativity
+* GPU - Graphics Processing Unit
 * GUI - Graphic User Interface
+* GUT - Grand Unified Theory
 * GW - Gravitational-Wave
 
 ##### H
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
+* HDF - Hierarchical Data Format
 * HE - HCAL Endcap
 * HEL - High Energy Lingo
 * HEM - HCAL Endcap Minus
 * HEP - HCAL Endcap Plus
 * HEP - High Energy Physics
-* HERM - HCAL End-cap Readout Module (aka Andrew Brent Baas)
+* HERM - HCAL Endcap Readout Module (aka Andrew Brent Baas)
 * HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
 * HIP - Heavily Ionizing Particles
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
 * HO - HCAL Outer
-* HPD - Hybrid PhotoDiode
+* HPD - Hybrid Photo-Detector
 
 ##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
 * IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
+* IRR - Installation Readiness Review
+* ISR - Initial State Radiation
 
 ##### J
+* JMAR - JetMET Algorithms and Reconstruction
 * JSON - JavaScript Object Notation
 * JTAG - Joint Test Action Group
 
@@ -141,21 +171,26 @@ Contributing to this document is the best way to make it more effective. If you 
 * L1 - Level 1 trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
+* LAS - Life Access Server
 * LASER - Light Amplification by Stimulated Emission of Radiation
 * LBA - Lost Bus Arbitration
 * LBNF - Long-Baseline Neutrino Experiment
+* LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
 * LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LHCP Conference - LHC Physics Conference
 * LPC - LHC Physics Center
+* LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
+* LSP - Lightest Supersymmetric Particle
 * LVDS - Low Voltage Differential Signaling
 
 ##### M
 * MARV - Shaun Patrick Hogan
+* MATHUSLA - MAssive Timing Hodoscope for Ultra-Stable neutraL pArticles
 * MC - Monte Carlo
 * MCH - MicroTCA Carrier Hub
 * MET - Missing Transverse Energy
@@ -165,6 +200,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
+* MVA - Multivariate Analysis
+* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN brought to you by Nvidia
 
 ##### N
 * NACK - Not Acknowledge
@@ -187,27 +224,35 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### O
 * ODE - Ordinary Differential Equation
 * ODU - Optical Decoder Unit
+* OFW - OverFloW
 * Op-amp - Operational amplifier
 * OSG - Open Science Grid
 
 ##### P
 * P5 - Point 5 at the LHC (fifth interaction point)
+* P5 - Particle Physics Project Prioritization Panel
 * PADE - PreAmp and Digitizer Electronics
+* PAG - Physics Analysis Group
+* PAT - Physics Analysis Toolkit
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
+* PD - Primary Dataset
 * PDE - Partial Differential Equation
+* PDE - Photon Detection Efficiency
 * PDF - Parton Distribution Function
 * PE - Prototype Electron (developed by Dr. D) =D
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
+* pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - PhotoMultiplier Tube
-* PAG - Physics Analysis Group
 * POG - Physics Object Group
+* PPOD - Pluggable Parallel Optical receivers
 * PR - Pull Request
-* PRBS - Pseudo Random Bit Stream
+* PRBS - PseudoRandom Binary Sequence
 * PS - Proton Synchrotron
 * PT - Transverse Momentum
 * PU - Pileup
+* PUPPI - PileUp Per Particle Identification
 * py - python
 
 ##### Q
@@ -218,17 +263,23 @@ Contributing to this document is the best way to make it more effective. If you 
 * QIE - Charge Integrator and Encoder
 
 ##### R
+* RA2/b - Reference Analysis 2, combined with analysis B. Searched for MET, HT, n_jets, and number of b quarks.
 * R2E - Radiation To Electronics
 * RBX - Readout Box
 * RC - Run Control
 * RCMS - Run Control and Monitor System
 * RecHits - Reconstructed Collisions
+* RECO - Reconstructed Data
 * RELU - Rectified Linear Unit
 * Repo - Repository
 * RF - Radio Frequency
 * RF - Random Forest
 * RM - Readout Module
+* RNN - Recurrent Neural Network
+* ROC - Receiver Operator Characteristic
 * ROC - Remote Operations Center
+* ROOT - Rene/Rademakers Object Oriented Technology
+* ROOT - Retro Object Oriented Tree
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
 * RV - Release Validation
@@ -238,27 +289,36 @@ Contributing to this document is the best way to make it more effective. If you 
 * SCL - Serial Clock
 * SDA - Serial Data
 * SDSS - Sloan Digital Sky Survey
+* SF - Scale Factor
 * SiPM - Silicon Photomultiplier
+* SL - Shift Leader
 * SLAC - Standford Linear Accelerator Center
+* SLASH - Smart Life Access Server Hub
 * SM - Standard Model
 * SMP - Standard Model Physics
 * SMBus - System Management Bus
+* SP - Survival Probability
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
+* SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
 
 ##### T
 * TB - Test Beam
 * TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
+* TDR - Technical Design Report
 * TeV - Tera-electronvolt
 * TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
+* TMVA - Toolkit for Multivariate Data Analysis with ROOT
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
 * TP - Trigger Primitive
+* TPU - Tensor Processing Unit
+* TPR - True Positive Rate
 * TriDAS - Trigger and Data Acquisition System
 * TTC - Timing, Trigger and Control
 * TTCrx - Timing, Trigger and Control Receiver ASIC
@@ -270,8 +330,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * μTCA - Micro Telecommunications Computing Architecture
 * UEC - Users Executive Committee
 * URA - Universities Research Association
+* USCMS - United States Compact Muon Solenoid (Group)
+* USLUA - United States LHC Users Association
 
 ##### V
+* VBF - Vector Boson Fusion
 * VTTx - Versatile Twin Transmitter
 
 ##### W
@@ -281,6 +344,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### X
 * XaaD - Service running on a host which uses Xaas
 * XaaS - XDAQ as a Service
+* XDAQ - Cross Data Acquisistion System
 * XGBoost - eXtreme Gradient Boost
 * XMAS -XDAQ Monitoring and Alarming System
 
