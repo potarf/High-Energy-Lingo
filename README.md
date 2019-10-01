@@ -147,6 +147,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HERM - HCAL Endcap Readout Module (aka Andrew Brent Baas)
 * HF - HCAL Forward
 * HGCAL - High Granularity Calorimeter
+* HGCROC - High Granularity Calorimeter Read Out Chip
 * HIP - Heavily Ionizing Particles
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
