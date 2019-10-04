@@ -36,6 +36,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ARC - Analysis Review Committee
 * ASIC - Application Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
+* AWG - Analysis Working Group
 
 ##### B
 * BDT - Boosted Decision Tree
@@ -77,6 +78,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CSV - Comma Separated Values
 * CU - Calibration Unit
 * CV - Curriculum vitae
+* CWR - Collaboration Wide Review
 
 ##### D
 * D0 - DZero Experiment at Fermilab
