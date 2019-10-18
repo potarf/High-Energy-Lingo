@@ -57,7 +57,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
-* CHIPOTLE - Chicken Hot sauce Ingredients Please Order Tacos Lettuce Every day
+* CHIPOTLE - We have Chicken, Hot sauce, and other Ingredients... but Please Order Tacos with Lettuce Every day.
+* CHIPOTLE - Choose How I Produce  Our Tremendous Lunch Entrée
 * CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
 * CL - Combined Limit
@@ -163,6 +164,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * IF - Intensity Frontier
 * IRR - Installation Readiness Review
 * ISR - Initial State Radiation
+* IVF - Inclusive Vertex Finder
 
 ##### J
 * JMAR - JetMET Algorithms and Reconstruction
@@ -205,7 +207,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MUX - MUltipleXer
 * MVA - Multivariate Analysis
-* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN brought to you by Nvidia
+* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN Brought To You By Nvidia
+* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Brought To You By Nvidia
 
 ##### N
 * NACK - Not Acknowledge
@@ -308,6 +311,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Super Symmetry
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
+* SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
 ##### T
 * TB - Test Beam
