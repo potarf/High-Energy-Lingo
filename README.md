@@ -158,6 +158,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HLT - High Level Trigger
 * HO - HCAL Outer
 * HPD - Hybrid Photo-Detector
+* hls4ml - high level synthesis for machine learning
 
 ##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
