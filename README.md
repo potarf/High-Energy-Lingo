@@ -167,6 +167,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * IVF - Inclusive Vertex Finder
 
 ##### J
+* JEC - Jet Energy Correction
+* JER - Jet Energy Resolution
+* JES - Jet Energy Scale
 * JMAR - JetMET Algorithms and Reconstruction
 * JSON - JavaScript Object Notation
 * JTAG - Joint Test Action Group
