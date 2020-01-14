@@ -39,6 +39,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * AWG - Analysis Working Group
 
 ##### B
+* BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
