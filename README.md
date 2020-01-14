@@ -127,6 +127,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
 * FSPA - Fermilab Student & Postdoc Association
+* FWLite - CMSSW Framework Light
 
 ##### G
 * GeV - Giga-electronvolt
@@ -299,6 +300,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SCL - Serial Clock
 * SDA - Serial Data
 * SDSS - Sloan Digital Sky Survey
+* SEU - Single Event Upset
 * SF - Scale Factor
 * SiPM - Silicon Photomultiplier
 * SL - Shift Leader
