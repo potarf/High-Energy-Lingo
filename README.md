@@ -27,6 +27,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### A
 * ACK - Acknowledge
+* ACORN - A Collider Of Radius Neptune
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
 * AMC - Advanced Mezzanine Card
