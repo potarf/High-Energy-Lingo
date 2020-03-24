@@ -209,9 +209,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
+* MIP - Minimum Ionizing Particle
 * MLP - Multi Layer Perceptron
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
+* MTD - MIP Timing Detector
 * MUX - MUltipleXer
 * MVA - Multivariate Analysis
 * MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN Brought To You By Nvidia
