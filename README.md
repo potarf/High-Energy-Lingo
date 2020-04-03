@@ -33,7 +33,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * AMC - Advanced Mezzanine Card
 * ANN - Artificial Neural Network
 * AOD - Analysis Object Data
-* APD - Avalanche PIN diode
+* APD - Avalanche Photodiode
 * ARC - Analysis Review Committee
 * ASIC - Application Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
@@ -70,6 +70,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMS - Compact Muon Solenoid
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
+* COM - center-of-mass
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CPM - Central Partition Manager
 * CPU - Central Processing Unit
@@ -193,6 +194,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
 * LIGO - Laser Interferometer Gravitational-wave Observatory
+* LINAC - Linear Accelerator
 * LHCP Conference - LHC Physics Conference
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
