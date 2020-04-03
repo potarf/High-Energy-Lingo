@@ -182,7 +182,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### K
 
 ##### L
-* L1 - Level 1 trigger
+* L1 - Level-1 Trigger
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
 * LAS - Life Access Server
@@ -321,7 +321,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SQL - Structured Query Language
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
-* SUSY - Super Symmetry
+* SUSY - Supersymmetry
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
 * SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
