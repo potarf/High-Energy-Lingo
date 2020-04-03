@@ -124,7 +124,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
 * FM - Function Manager
-* FNAL - Fermi National Accelerator Lab
+* FNAL - Fermi National Accelerator Laboratory
 * FPGA - Field-Programmable Gate Array
 * FPR - False Positive Rate
 * FRU - Field Replaceable Unit
