@@ -194,7 +194,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LHA - Les Houches Accord
 * LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
-* LHE - Les Houches Event format
+* LHE - Les Houches Event (format)
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
 * LHCP Conference - LHC Physics Conference
