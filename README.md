@@ -66,8 +66,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * CL - Combined Limit
 * CLI - Command Line Interface
 * CM - Calibration Module
-* CMS - Constant Meeting System
 * CMS - Compact Muon Solenoid
+* CMS - Constant Meeting System
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COM - center-of-mass
@@ -159,7 +159,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HLT - High Level Trigger
 * HO - HCAL Outer
-* HPD - Hybrid Photo-Detector
+* HPD - Hybrid PhotoDetector
 * hls4ml - high level synthesis for machine learning
 
 ##### I
