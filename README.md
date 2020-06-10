@@ -110,6 +110,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### E
 * ECAL - Electromagnetic Calorimeter
+* ECF - Energy Correlation Functions
 * EF - Energy Frontier
 * EFT - Effective Field Theory
 * EMTF - Endcap Muon Trigger Finder
@@ -157,6 +158,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * HGCROC - High Granularity Calorimeter Read Out Chip
 * HIP - Heavily Ionizing Particles
 * HL-LHC - High Luminosity (HiLumi) LHC
+* HOT - Heavy Object Tagger
+* HOTVR - Heavy Object Tagger with Variable R
 * HLT - High Level Trigger
 * HO - HCAL Outer
 * HPD - Hybrid PhotoDetector

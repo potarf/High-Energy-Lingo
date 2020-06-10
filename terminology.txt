@@ -8,6 +8,12 @@ robust - general, good error handling, works well consistently, well thought out
 subtle - challenging, difficult, hard to find and debug, easily overlooked
 fermiaphilic - afraid of fermions, not likely to interact with fermions
 
+N-subjettiness variables: tau_N, provide a measure of the number of subjets that can be found inside a jet
+tau_N is small for jets having N subjets
+tau_N ratios:
+tau_21 = tau_2 / tau_1; smaller tau_21 implies 2 subjets, and larger tau_21 implies 1 subjet
+tau_32 = tau_3 / tau_2; smaller tau_32 implies 3 subjets, and larger tau_32 implies 2 subjets
+
 ## Data Types
 
 ### CMS Physics Data
