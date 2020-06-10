@@ -218,6 +218,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
 * MIP - Minimum Ionizing Particle
+* ML - Machine Learning
 * MLP - Multi Layer Perceptron
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
