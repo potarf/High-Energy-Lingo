@@ -213,6 +213,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MATHUSLA - MAssive Timing Hodoscope for Ultra-Stable neutraL pArticles
 * MC - Monte Carlo
 * MCH - MicroTCA Carrier Hub
+* MD - Mass Decorrelated
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
@@ -327,6 +328,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SR - Special Relativity
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Supersymmetry
+* SV - Secondary Vertex
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
 * SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
