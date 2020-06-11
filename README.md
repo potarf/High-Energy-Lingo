@@ -68,6 +68,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CM - Calibration Module
 * CMS - Compact Muon Solenoid
 * CMS - Constant Meeting System
+* CMSSM - Constrained Minimal Sumpersymmetric Standard Model
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COM - center-of-mass
@@ -239,6 +240,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * NJP - Nathaniel Joseph Pastika (aka Joe)
 * NLL - Next-to-Leading Logarithm
 * NLO - Next-to-Leading Order
+* NLSP - Next-to-Lightest Supersymmetric Particle
 * NMSSM - Next-to-Minimal Sumpersymmetric Standard Model
 * NORM - Caleb James Smith
 * NOvA - NuMI Off-axis v<sub>e</sub> Appearance
