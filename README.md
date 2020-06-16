@@ -82,6 +82,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CSV - Combined Secondary Vertex
 * CSV - Comma Separated Values
 * CU - Calibration Unit
+* CUDA - Compute Unified Device Architecture
 * CV - Curriculum vitae
 * CWR - Collaboration Wide Review
 
