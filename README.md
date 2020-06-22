@@ -50,6 +50,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BX - Bunch Crossing
 
 ##### C
+* CASPER - Center for Astrophysics, Space Physics, and Engineering Research
 * CC7 - CentosOS7
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
@@ -300,6 +301,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RECO - Reconstructed Data
 * RELU - Rectified Linear Unit
 * Repo - Repository
+* REU - Research Experience for Undergraduates
 * RF - Radio Frequency
 * RF - Random Forest
 * RM - Readout Module
