@@ -197,8 +197,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * LBNF - Long-Baseline Neutrino Experiment
 * LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
+* LFSR - Linear-Feedback Shift Register
 * LHA - Les Houches Accord
-* LHC - Large Hadron (Hardon) Collider =D
+* LHC - Large Hadron Collider
 * LHCb - Large Hadron Collider beauty
 * LHE - Les Houches Event (format)
 * LIGO - Laser Interferometer Gravitational-wave Observatory
