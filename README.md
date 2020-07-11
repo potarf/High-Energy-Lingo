@@ -31,8 +31,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * ADC - Analog to Digital Converter
 * ALICE - A Large Ion Collider Experiment
 * AMC - Advanced Mezzanine Card
-* aMC - automatic Monte Carlo
-* aMC@NLO - automatic Monte Carlo at Next-to-Leading Order
+* aMC - automated Monte Carlo
+* aMC@NLO - automated Monte Carlo at Next-to-Leading Order
 * ANN - Artificial Neural Network
 * AOD - Analysis Object Data
 * APD - Avalanche Photodiode
