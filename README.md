@@ -220,6 +220,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MC - Monte Carlo
 * MCH - MicroTCA Carrier Hub
 * MD - Mass Decorrelated
+* ME - Matrix Element
 * MET - Missing Transverse Energy
 * MeV - Mega-electronvolt
 * M<sub>inv</sub> - Invariant Mass
