@@ -175,6 +175,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
+* IP - Interaction Point
 * IRR - Installation Readiness Review
 * ISR - Initial State Radiation
 * IVF - Inclusive Vertex Finder
@@ -288,6 +289,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PT - Transverse Momentum
 * PU - Pileup
 * PUPPI - PileUp Per Particle Identification
+* PV - Primary Vertex
 * py - python
 
 ##### Q
