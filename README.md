@@ -274,6 +274,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PDE - Photon Detection Efficiency
 * PDF - Parton Distribution Function
 * PE - Prototype Electron (developed by Dr. D) =D
+* PF - Particle Flow
 * PFA - Peak Finding Algorithm
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
