@@ -268,6 +268,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PADE - PreAmp and Digitizer Electronics
 * PAG - Physics Analysis Group
 * PAT - Physics Analysis Toolkit
+* PAW - Physics Analysis Workstation
 * pb - Picobarn
 * PCC - Pixel Clustering Counter
 * PD - Primary Dataset
