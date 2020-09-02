@@ -78,6 +78,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CPM - Central Partition Manager
 * CPU - Central Processing Unit
+* CR - Control Region
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -204,10 +205,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * LHA - Les Houches Accord
 * LHC - Large Hadron Collider
 * LHCb - Large Hadron Collider beauty
+* LHCP Conference - LHC Physics Conference
 * LHE - Les Houches Event (format)
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
-* LHCP Conference - LHC Physics Conference
+* LL - Lost Lepton
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
@@ -341,6 +343,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
+* SR - Search Region
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
