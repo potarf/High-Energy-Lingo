@@ -357,6 +357,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TDC - Time to Digital Converter
 * TDR - Technical Design Report
 * TeV - Tera-electronvolt
+* TF - Transfer Factor
 * TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
 * TMVA - Toolkit for Multivariate Data Analysis with ROOT
