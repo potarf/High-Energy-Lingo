@@ -66,6 +66,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CHIPOTLE - Choose How I Produce  Our Tremendous Lunch Entrée
 * CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
+* CKM - Cabibbo-Kobayashi-Maskawa (CKM matrix)
 * CL - Combined Limit
 * CLI - Command Line Interface
 * CM - Calibration Module
@@ -282,6 +283,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PFA - Peak Finding Algorithm
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
+* PMNS - Pontecorvo-Maki-Nakagawa-Sakata (PMNS matrix)
 * pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - PhotoMultiplier Tube
 * POG - Physics Object Group
