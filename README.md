@@ -77,7 +77,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * CNN - Convolutional Neural Network
 * COM - center-of-mass
 * COUPP - Chicagoland Observatory for Underground Particle Physics
+* CP - Charge Parity
 * CPM - Central Partition Manager
+* CPT - Charge Parity Time
 * CPU - Central Processing Unit
 * CR - Control Region
 * CRAB - CMS Remote Analysis Builder
