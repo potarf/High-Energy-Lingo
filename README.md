@@ -305,6 +305,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * QFT - Quantum Field Theory
 * QGL - Quark Gluon
 * QIE - Charge Integrator and Encoder
+* QM - Quantum Mechanics
 
 ##### R
 * RA2/b - Reference Analysis 2, combined with analysis B. Searched for MET, HT, n_jets, and number of b quarks.
