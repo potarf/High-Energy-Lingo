@@ -392,6 +392,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### V
 * VBF - Vector Boson Fusion
 * vev - vacuum expectation value
+* VPT - Vacuum Phototriode
 * VTTx - Versatile Twin Transmitter
 
 ##### W
