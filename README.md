@@ -174,7 +174,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HOTVR - Heavy Object Tagger with Variable R
 * HLT - High Level Trigger
 * HO - HCAL Outer
-* HPD - Hybrid PhotoDetector
+* HPD - Hybrid Photodiode
 * hls4ml - high level synthesis for machine learning
 
 ##### I
