@@ -86,6 +86,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
 * CRF - Castor Radiation Facility
+* CSC - Cathode Strip Chamber
 * CSV - Combined Secondary Vertex
 * CSV - Comma Separated Values
 * CU - Calibration Unit
@@ -112,10 +113,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
+* DT - Drift Tube
 * DTC - Distributed Timing and Clock
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah: CERN/FNAL communications rep.)
-* DUNE - Novel and series by Franck Herbert (alternate)
+* DUNE - Novel and series by Franck Herbert and film release in 2020 (alternate)
+* DY - Drell-Yan
 
 ##### E
 * ECAL - Electromagnetic Calorimeter
@@ -327,6 +330,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ROC - Remote Operations Center
 * ROOT - Rene/Rademakers Object Oriented Technology
 * ROOT - Retro Object Oriented Tree
+* RPC - Resistive Plate Chamber
 * RPi - Raspberry Pi
 * RSO - Radiation Safety Officer
 * RV - Release Validation
