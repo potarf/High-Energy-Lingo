@@ -293,6 +293,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PR - Pull Request
 * PRBS - PseudoRandom Binary Sequence
 * PS - Proton Synchrotron
+* PSB - Proton Synchrotron Booster
 * PT - Transverse Momentum
 * PU - Pileup
 * PUPPI - PileUp Per Particle Identification
