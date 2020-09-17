@@ -37,7 +37,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * AOD - Analysis Object Data
 * APD - Avalanche Photodiode
 * ARC - Analysis Review Committee
-* ASIC - Application Specific Integrated Circuit
+* ASIC - Application-Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
 * AWG - Analysis Working Group
 
@@ -198,7 +198,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### K
 
 ##### L
-* L1 - Level-1 Trigger
+* L1 - Level-1 (Trigger)
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
 * LAS - Life Access Server
@@ -221,6 +221,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
 * LSP - Lightest Supersymmetric Particle
+* LUT - Look-Up Table
 * LVDS - Low Voltage Differential Signaling
 
 ##### M
@@ -288,6 +289,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PFA - Peak Finding Algorithm
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
+* PLD - Programmable Logic Devices
 * PMNS - Pontecorvo-Maki-Nakagawa-Sakata (PMNS matrix)
 * pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - PhotoMultiplier Tube
