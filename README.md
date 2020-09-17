@@ -315,6 +315,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### R
 * RA2/b - Reference Analysis 2, combined with analysis B. Searched for MET, HT, n_jets, and number of b quarks.
+* RAM - Random-Access Memory
 * R2E - Radiation To Electronics
 * RBX - Readout Box
 * RC - Run Control
