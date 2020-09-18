@@ -294,7 +294,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PLD - Programmable Logic Devices
 * PMNS - Pontecorvo-Maki-Nakagawa-Sakata (PMNS matrix)
 * pMSSM - phenomenological Minimal Supersymmetric Standard Model
-* PMT - PhotoMultiplier Tube
+* PMT - Photomultiplier Tube
 * POG - Physics Object Group
 * PPOD - Pluggable Parallel Optical receivers
 * PR - Pull Request
