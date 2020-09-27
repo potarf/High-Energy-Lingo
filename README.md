@@ -154,6 +154,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GUI - Graphic User Interface
 * GUT - Grand Unified Theory
 * GW - Gravitational-Wave
+* GWS - Glashow-Weinberg-Salam (model/theory)
 
 ##### H
 * HB - HCAL Barrel
