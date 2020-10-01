@@ -403,6 +403,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### W
 * WIMP - Weakly Interacting Massive Particle
+* WP - Working Point
 * WYSIWYG - What You See Is What You Get
 
 ##### X
