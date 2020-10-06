@@ -39,6 +39,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ARC - Analysis Review Committee
 * ASIC - Application-Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
+* ATLAS - ATLAS voted to remove their acronym in 2018, so it is just ATLAS now.
 * AWG - Analysis Working Group
 
 ##### B
