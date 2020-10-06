@@ -185,7 +185,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
 * IP - Interaction Point
-* IRC - Infared and Collinear
+* IRC - Infrared and Collinear
 * IRR - Installation Readiness Review
 * ISR - Initial State Radiation
 * IVF - Inclusive Vertex Finder
