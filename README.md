@@ -245,6 +245,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MTD - MIP Timing Detector
+* MUSiC - Model Unspecific Search in CMS
 * MUX - MUltipleXer
 * MVA - Multivariate Analysis
 * MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN Brought To You By Nvidia
