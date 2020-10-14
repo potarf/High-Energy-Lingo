@@ -111,6 +111,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DOC - Detector On Call
 * DOC - Data Operations Center
 * DOE - Department of Energy
+* DOI - Digital Object Identifiers
 * DPG - Detector Performance Group
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
