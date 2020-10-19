@@ -203,7 +203,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### K
 
 ##### L
-* L1 - Level-1 (Trigger)
+* L1 - Level 1 (Trigger)
 * LANL - Los Alamos National Laboratory
 * LArTPC - Liquid Argon Time Projection Chamber
 * LAS - Life Access Server
