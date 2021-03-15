@@ -118,6 +118,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DT - Drift Tube
 * DTC - Data, Trigger, and Control
 * DTC - Distributed Timing and Clock
+* DTH - DAQ Timing Hub
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah Charley: CERN/FNAL communications rep.)
 * DUNE - Novel and series by Franck Herbert and film release in 2020 (alternate)
@@ -349,6 +350,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RV - Release Validation
 
 ##### S
+* SCC - Single Chip Card
 * SCRAM - Source Configuration, Release, And Management
 * SCL - Serial Clock
 * SDA - Serial Data
@@ -362,6 +364,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SM - Standard Model
 * SMP - Standard Model Physics
 * SMBus - System Management Bus
+* SoC - System on a Chip
 * SP - Survival Probability
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
