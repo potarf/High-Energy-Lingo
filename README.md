@@ -116,6 +116,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
 * DT - Drift Tube
+* DTC - Data, Trigger, and Control
 * DTC - Distributed Timing and Clock
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah Charley: CERN/FNAL communications rep.)
@@ -190,6 +191,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * IRC - Infrared and Collinear
 * IRR - Installation Readiness Review
 * ISR - Initial State Radiation
+* IT - Inner Tracker
 * IVF - Inclusive Vertex Finder
 
 ##### J
@@ -277,6 +279,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * OFW - OverFloW
 * Op-amp - Operational amplifier
 * OSG - Open Science Grid
+* OT - Outer Tracker
 
 ##### P
 * P5 - Point 5 at the LHC (fifth interaction point)
@@ -372,12 +375,16 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### T
 * TB - Test Beam
+* TBPX - Tracker Barrel Pixel
 * TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
 * TDR - Technical Design Report
 * TeV - Tera-electronvolt
+* TEPX - Tracker Extension Pixel
 * TF - Transfer Factor
+* TFP - Track Finder Processor
+* TFPX - Tracker Forward Pixel
 * TID - Total Integrated Dose
 * TLA - Three-Letter Acronym
 * TMVA - Toolkit for Multivariate Data Analysis with ROOT
