@@ -163,6 +163,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### G
 * GBT - Gigabit Transceiver
 * GeV - Giga-electronvolt
+* GIPHT - Graphical user Interface for PHase 2 Tracker objects
 * GPIO - General-purpose input/output
 * GR - General Relativity
 * GPU - Graphics Processing Unit
@@ -187,13 +188,14 @@ Contributing to this document is the best way to make it more effective. If you 
 * HGCAL - High Granularity Calorimeter
 * HGCROC - High Granularity Calorimeter Read Out Chip
 * HIP - Heavily Ionizing Particles
+* hls4ml - high level synthesis for machine learning
 * HL-LHC - High Luminosity (HiLumi) LHC
 * HOT - Heavy Object Tagger
 * HOTVR - Heavy Object Tagger with Variable R
 * HLT - High Level Trigger
 * HO - HCAL Outer
 * HPD - Hybrid Photodiode
-* hls4ml - high level synthesis for machine learning
+* HV - High Voltage
 
 ##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
@@ -244,6 +246,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LS2 - Long Shutdown 2
 * LSP - Lightest Supersymmetric Particle
 * LUT - Look-Up Table
+* LV - Low Voltage
 * LVDS - Low Voltage Differential Signaling
 
 ##### M
