@@ -157,6 +157,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FSM - Finite State Machine
 * FSPA - Fermilab Student & Postdoc Association
 * FSR - Final State Radiation
+* FW - Firmware
 * FWLite - CMSSW Framework Light
 
 ##### G
@@ -171,6 +172,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GWS - Glashow-Weinberg-Salam (model/theory)
 
 ##### H
+* HW - Hardware
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
@@ -264,6 +266,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MUSiC - Model Unspecific Search in CMS
 * MUX - MUltipleXer
 * MVA - Multivariate Analysis
+* MW - Middleware
 * MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN Brought To You By Nvidia
 * MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Brought To You By Nvidia
 
@@ -392,6 +395,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
+* SW - Software
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
 * SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
