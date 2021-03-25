@@ -355,6 +355,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RF - Random Forest
 * RM - Readout Module
 * RNN - Recurrent Neural Network
+* ROC - Readout Chip
 * ROC - Receiver Operator Characteristic
 * ROC - Remote Operations Center
 * ROOT - Rene/Rademakers Object Oriented Technology
