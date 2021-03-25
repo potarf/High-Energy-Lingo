@@ -25,6 +25,9 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ## Acronyms
 
+##### 0-9
+* 2S - strip-strip
+
 ##### A
 * ACK - Acknowledge
 * ACORN - A Collider Of Radius Neptune
@@ -54,6 +57,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### C
 * CASPER - Center for Astrophysics, Space Physics, and Engineering Research
+* CBC - CMS Binary Chip
 * CC7 - CentosOS7
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
@@ -67,6 +71,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CHIPOTLE - Choose How I Produce  Our Tremendous Lunch Entrée
 * CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
+* CIC - Concentrator ASIC
 * CKM - Cabibbo-Kobayashi-Maskawa (CKM matrix)
 * CL - Combined Limit
 * CLI - Command Line Interface
@@ -78,6 +83,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CNN - Convolutional Neural Network
 * COM - center-of-mass
 * COUPP - Chicagoland Observatory for Underground Particle Physics
+* COVID-19 - coronavirus disease 2019
 * CP - Charge Parity
 * CPM - Central Partition Manager
 * CPT - Charge Parity Time
@@ -116,6 +122,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * DPS - Detector Performance Summary
 * DSS - Detector Safety System
 * DT - Drift Tube
+* DTC - Data, Trigger, and Control
 * DTC - Distributed Timing and Clock
 * DQM - Data Quality Monitoring
 * DUNE - Deep Underground Neutrino Experiment (named by Sarah Charley: CERN/FNAL communications rep.)
@@ -149,6 +156,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * FWLite - CMSSW Framework Light
 
 ##### G
+* GBT - Gigabit Transceiver
 * GeV - Giga-electronvolt
 * GPIO - General-purpose input/output
 * GR - General Relativity
@@ -222,6 +230,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
+* lpGBT - low-power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
@@ -243,6 +252,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MIP - Minimum Ionizing Particle
 * ML - Machine Learning
 * MLP - Multi Layer Perceptron
+* MPA - Macro-Pixel ASIC
 * MSSM - Minimal Sumpersymmetric Standard Model
 * Mu2e - Muon-to-electron-conversion experiment at Fermilab
 * MTD - MIP Timing Detector
@@ -304,6 +314,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PPOD - Pluggable Parallel Optical receivers
 * PR - Pull Request
 * PRBS - PseudoRandom Binary Sequence
+* PS - pixel-strip
 * PS - Proton Synchrotron
 * PSB - Proton Synchrotron Booster
 * PT - Transverse Momentum
@@ -346,6 +357,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * RV - Release Validation
 
 ##### S
+* SARS-CoV-2 - Severe Acute Respiatory Syndrome Coronavirus 2
 * SCRAM - Source Configuration, Release, And Management
 * SCL - Serial Clock
 * SDA - Serial Data
@@ -364,6 +376,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SQL - Structured Query Language
 * SR - Special Relativity
 * SR - Search Region
+* SSA - Short Strip ASIC
 * SSC - Superconducting Super Collider (Desertron)
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
@@ -403,7 +416,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * VBF - Vector Boson Fusion
 * vev - vacuum expectation value
 * VPT - Vacuum Phototriode
-* VTTx - Versatile Twin Transmitter
+* VTRx - Versatile TransReceiver
+* VTTx - Versatile Twin-Transmitter
 
 ##### W
 * WIMP - Weakly Interacting Massive Particle
