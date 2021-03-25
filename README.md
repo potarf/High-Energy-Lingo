@@ -29,6 +29,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * 2S - strip-strip
 
 ##### A
+* ACF - Acquisition & Control Framework
 * ACK - Acknowledge
 * ACORN - A Collider Of Radius Neptune
 * ADC - Analog to Digital Converter
@@ -39,6 +40,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ANN - Artificial Neural Network
 * AOD - Analysis Object Data
 * APD - Avalanche Photodiode
+* API - Application Programming Interface
 * ARC - Analysis Review Committee
 * ASIC - Application-Specific Integrated Circuit
 * ATLAS - A Toroidal LHC ApparatuS
@@ -147,6 +149,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
 * FM - Function Manager
+* FMC - FPGA Mezzanine Card
 * FNAL - Fermi National Accelerator Laboratory
 * FPGA - Field-Programmable Gate Array
 * FPR - False Positive Rate
@@ -307,6 +310,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * PE - Prototype Electron (developed by Dr. D) =D
 * PF - Particle Flow
 * PFA - Peak Finding Algorithm
+* Ph1 - Phase 1
+* Ph2 - Phase 2
 * PI - Partition Interface
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
 * PLD - Programmable Logic Devices
@@ -368,6 +373,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SDSS - Sloan Digital Sky Survey
 * SEU - Single Event Upset
 * SF - Scale Factor
+* SFP - Small Form-factor Pluggable
 * SiPM - Silicon Photomultiplier
 * SL - Shift Leader
 * SLAC - Standford Linear Accelerator Center
