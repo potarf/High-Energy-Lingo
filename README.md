@@ -48,6 +48,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * AWG - Analysis Working Group
 
 ##### B
+* BE - Back-End
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
 * Brdg - Bridge FPGA
@@ -148,6 +149,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * fb - Femtobarn
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
+* FE - Front-End
 * FM - Function Manager
 * FMC - FPGA Mezzanine Card
 * FNAL - Fermi National Accelerator Laboratory
