@@ -138,6 +138,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * ECF - Energy Correlation Functions
 * EF - Energy Frontier
 * EFT - Effective Field Theory
+* e-link - electrical link
 * EMTF - Endcap Muon Trigger Finder
 * EPR - Experimental Physics Responsibility
 * eV - Electronvolt
