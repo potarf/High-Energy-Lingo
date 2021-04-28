@@ -441,8 +441,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * VBF - Vector Boson Fusion
 * vev - vacuum expectation value
 * VPT - Vacuum Phototriode
-* VTRx - Versatile TransReceiver
-* VTTx - Versatile Twin-Transmitter
+* VTRx - Versatile Transceiver
+* VTTx - Versatile Twin Transmitter
 
 ##### W
 * WIMP - Weakly Interacting Massive Particle
