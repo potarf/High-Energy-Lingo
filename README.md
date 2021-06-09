@@ -51,6 +51,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BE - Back-End
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
+* BRIL - Beam Radiation, Instrumentation, and Luminosity 
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
 * BRM - Beam Radiation & Monitoring for CMS
