@@ -168,6 +168,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GBT - Gigabit Transceiver
 * GeV - Giga-electronvolt
 * GIPHT - Graphical user Interface for PHase 2 Tracker objects
+* GLIB - Gigabit Link Interface Board
 * GPIO - General-purpose input/output
 * GR - General Relativity
 * GPU - Graphics Processing Unit
@@ -243,7 +244,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
-* lpGBT - low-power Gigabit Transceiver
+* lpGBT - Low-Power GigaBit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
@@ -443,7 +444,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * VBF - Vector Boson Fusion
 * vev - vacuum expectation value
 * VPT - Vacuum Phototriode
-* VTRx - Versatile Transceiver
+* VTRx - Versatile Link Transceiver
 * VTTx - Versatile Twin Transmitter
 
 ##### W
