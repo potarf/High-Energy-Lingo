@@ -244,7 +244,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
-* lpGBT - Low-Power GigaBit Transceiver
+* lpGBT - Low-Power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
@@ -443,8 +443,11 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### V
 * VBF - Vector Boson Fusion
 * vev - vacuum expectation value
+* VL - Versatile Link
+* VL+ - Versatile Link PLUS
 * VPT - Vacuum Phototriode
 * VTRx - Versatile Link Transceiver
+* VTRx+ - Versatile Link PLUS Transceiver
 * VTTx - Versatile Twin Transmitter
 
 ##### W
