@@ -109,7 +109,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * D0 - DZero Experiment at Fermilab
 * DAC - Digital to Analog Converter
 * DAD - Jordan David Potarf (aka JERRY)
-* DAQ - Data Acquisition System
+* DAQ - Data Acquisition
 * DB - Database
 * DCS - Detector Control System
 * DE - Dark Energy
