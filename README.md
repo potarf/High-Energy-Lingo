@@ -236,6 +236,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LED - Light Emitting Diode
 * LEP - Large Electron-Positron
 * LFSR - Linear-Feedback Shift Register
+* LGAD - Low Gain Avalanche Diode
 * LHA - Les Houches Accord
 * LHC - Large Hadron Collider
 * LHCb - Large Hadron Collider beauty
