@@ -78,6 +78,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CIC - Concentrator ASIC
 * CKM - Cabibbo-Kobayashi-Maskawa (CKM matrix)
 * CL - Combined Limit
+* CL - Confidence Level
 * CLI - Command Line Interface
 * CM - Calibration Module
 * CMS - Compact Muon Solenoid
