@@ -278,7 +278,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * MVA - Multivariate Analysis
 * MW - Middleware
 * MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative SWAPSBMCWNOFAN Brought To You By Nvidia
-* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Brought To You By Nvidia
+* MWCSWAPSBMCWNOFANBTYBN - Marc Weinberg Commemorative South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon Brought To You By Nvidia
 
 ##### N
 * NACK - Not Acknowledge
@@ -395,6 +395,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SM - Standard Model
 * SMP - Standard Model Physics
 * SMBus - System Management Bus
+* SMS - Simplified Model Spectrum
 * SoC - System on a Chip
 * SP - Survival Probability
 * SPS - Super Poton Synchrotron
@@ -406,8 +407,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
 * SW - Software
-* SWAPSBMCWNOFAN - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon
-* SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Beins Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
+* SWAPSBMCWNOFAN - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon
+* SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
 ##### T
 * TB - Test Beam
