@@ -54,6 +54,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BRIL - Beam Radiation, Instrumentation, and Luminosity 
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
+* BTV - B-Tagging and Vertexing
 * BRM - Beam Radiation & Monitoring for CMS
 * BSM - Beyond the Standard Model
 * BU - Baylor University
