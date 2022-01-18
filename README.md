@@ -321,6 +321,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * PDE - Partial Differential Equation
 * PDE - Photon Detection Efficiency
 * PDF - Parton Distribution Function
+* PdmV - Physics Data and Monte Carlo Validation
 * PE - Prototype Electron (developed by Dr. D) =D
 * PF - Particle Flow
 * PFA - Peak Finding Algorithm
@@ -333,6 +334,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * pMSSM - phenomenological Minimal Supersymmetric Standard Model
 * PMT - Photomultiplier Tube
 * POG - Physics Object Group
+* PPD - Physics Performance & Datasets
 * PPOD - Pluggable Parallel Optical receivers
 * PR - Pull Request
 * PRBS - PseudoRandom Binary Sequence
