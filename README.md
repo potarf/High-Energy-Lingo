@@ -67,8 +67,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * cDAQ - Central DAQ
 * CDF - CMS Data Format
 * CDF - Collider-Detector at Fermilab
-* CDR - Clock and Data Recovery
 * CDMS - Cryogenic Dark Matter Search
+* CDR - Clock and Data Recovery
+* CDS - CERN Document Server
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
