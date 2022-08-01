@@ -182,7 +182,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GWS - Glashow-Weinberg-Salam (model/theory)
 
 ##### H
-* HW - Hardware
+* HATS - Hands-on Advanced Tutorial Sessions
 * HB - HCAL Barrel
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
@@ -205,6 +205,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HO - HCAL Outer
 * HPD - Hybrid Photodiode
 * HV - High Voltage
+* HW - Hardware
 
 ##### I
 * I<sup>2</sup>c - Inter-Integrated Circuit
