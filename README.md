@@ -171,6 +171,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### G
 * GBT - Gigabit Transceiver
 * GeV - Giga-electronvolt
+* GEM - Gas Electron Multiplier
 * GIPHT - Graphical user Interface for PHase 2 Tracker objects
 * GLIB - Gigabit Link Interface Board
 * GPIO - General-purpose input/output
