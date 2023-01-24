@@ -156,6 +156,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * fC - Femtocoulomb
 * FC7 - ngFEC = Next Generation Front End Control
 * FE - Front-End
+* FED - Front-End Driver
 * FM - Function Manager
 * FMC - FPGA Mezzanine Card
 * FNAL - Fermi National Accelerator Laboratory
