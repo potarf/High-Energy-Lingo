@@ -154,8 +154,9 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### F
 * fb - Femtobarn
 * fC - Femtocoulomb
-* FC7 - ngFEC = Next Generation Front End Control
+* FC7 - ngFEC = Next Generation Front End Controller
 * FE - Front-End
+* FEC - Front-End Controller
 * FED - Front-End Driver
 * FM - Function Manager
 * FMC - FPGA Mezzanine Card
