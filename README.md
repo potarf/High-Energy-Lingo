@@ -39,6 +39,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * aMC@NLO - automated Monte Carlo at Next-to-Leading Order
 * ANN - Artificial Neural Network
 * AOD - Analysis Object Data
+* AOS - Acronym Overload Syndrome
 * APD - Avalanche Photodiode
 * API - Application Programming Interface
 * ARC - Analysis Review Committee
@@ -190,6 +191,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * HCAL - Hadron Calorimeter
 * HCOS - HCAL Online Software
 * HDF - Hierarchical Data Format
+* HDI - High Density Interconnect
 * HE - HCAL Endcap
 * HEL - High Energy Lingo
 * HEM - HCAL Endcap Minus
