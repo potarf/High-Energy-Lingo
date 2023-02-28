@@ -213,7 +213,8 @@ Contributing to this document is the best way to make it more effective. If you 
 * HW - Hardware
 
 ##### I
-* I<sup>2</sup>c - Inter-Integrated Circuit
+* I<sup>2</sup>C - Inter-Integrated Circuit
+* I2C - Inter-Integrated Circuit
 * IB - Integration Build
 * ICHEP - International Conference for High Energy Physics
 * IF - Intensity Frontier
