@@ -176,6 +176,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * GeV - Giga-electronvolt
 * GEM - Gas Electron Multiplier
 * GIPHT - Graphical user Interface for PHase 2 Tracker objects
+* GMSB - Gauge-Mediated Supersymmetry Breaking
 * GLIB - Gigabit Link Interface Board
 * GPIO - General-purpose input/output
 * GR - General Relativity
@@ -256,6 +257,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
+* LLP - Long-Lived Particle
 * lpGBT - Low-Power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
