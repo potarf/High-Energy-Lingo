@@ -107,6 +107,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CU - Calibration Unit
 * CUDA - Compute Unified Device Architecture
 * CV - Curriculum vitae
+* CVMFS - CERN Virtual Machine File System
 * CWR - Collaboration Wide Review
 
 ##### D
