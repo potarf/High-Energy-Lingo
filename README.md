@@ -90,6 +90,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COM - center-of-mass
+* COMCAL - Commissioning and Calibration
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * COVID-19 - coronavirus disease 2019
 * CP - Charge Parity
